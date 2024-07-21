@@ -14,14 +14,14 @@ const Header = () => (
 const Nav = () => (
   <nav>
     <ul>
-      <li><Link to="/">Anasayfa</Link></li>
-      <li><Link to="/Messages">Mesajlar</Link></li>
-      <li><Link to="/Musics">Müzikler</Link></li>
-      <li><Link to="/Games">Oyunlar</Link></li>
-      <li><Link to="/favorilerim">Favorilerim</Link></li>
-      <li><Link to="/uye-listesi">Üye Listesi</Link></li>
-      <li><Link to="/sss">SSS</Link></li>
-      <li><Link to="/iki-kisilik-oyunlar">2 Kişilik Oyunlar</Link></li>
+      <li><Link to="/guncedogdu">Anasayfa</Link></li>
+      <li><Link to="/guncedogdu/Messages">Mesajlar</Link></li>
+      <li><Link to="/guncedogdu/Musics">Müzikler</Link></li>
+      <li><Link to="/guncedogdu/Games">Oyunlar</Link></li>
+      <li><Link to="/guncedogdu/favorilerim">Favorilerim</Link></li>
+      <li><Link to="/guncedogdu/uye-listesi">Üye Listesi</Link></li>
+      <li><Link to="/guncedogdu/sss">SSS</Link></li>
+      <li><Link to="/guncedogdu/iki-kisilik-oyunlar">2 Kişilik Oyunlar</Link></li>
     </ul>
     <div className="search-bar">
       <input type="text" placeholder="Arama yap..." />

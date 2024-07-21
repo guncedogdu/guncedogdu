@@ -27,14 +27,14 @@ function App() {
 const Main = () => (
   <main>
     <Routes>
-      <Route path="/" element={<Home/>} />
-      <Route path="/Messages" element={<Messages />} />
-      <Route path="/Musics" element={<Musics />} />
-      <Route path="/Games" element={<Games />} />
-      <Route path="/favorilerim" element={<Favorilerim />} />
-      <Route path="/uye-listesi" element={<UyeListesi />} />
-      <Route path="/sss" element={<SSS />} />
-      <Route path="/iki-kisilik-oyunlar" element={<IkiKisilikOyunlar />} />
+      <Route path="/guncedogdu" element={<Home/>} />
+      <Route path="/guncedogdu/Messages" element={<Messages />} />
+      <Route path="/guncedogdu/Musics" element={<Musics />} />
+      <Route path="/guncedogdu/Games" element={<Games />} />
+      <Route path="/guncedogdu/favorilerim" element={<Favorilerim />} />
+      <Route path="/guncedogdu/uye-listesi" element={<UyeListesi />} />
+      <Route path="/guncedogdu/sss" element={<SSS />} />
+      <Route path="/guncedogdu/iki-kisilik-oyunlar" element={<IkiKisilikOyunlar />} />
     </Routes>
   </main>
 );
