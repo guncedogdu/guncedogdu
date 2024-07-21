@@ -9,17 +9,17 @@ const Home = () => (
   );
 
   const photos = [
-    { imgSrc: "/images/KafalarGuzel.jpg", title: "Kafalar Guzel" },
-    { imgSrc: "/images/GunceDogumGunu.jpg", title: "Dogum Gunu Kızı" },
-    { imgSrc: "/images/GunceVeDigerleri.jpg", title: "Dogum Gunu Kızı" },
-    { imgSrc: "/images/Bebeler.jpg", title: "Bebeler" },
+    { imgSrc: "./guncedogdu/images/KafalarGuzel.jpg", title: "Kafalar Guzel" },
+    { imgSrc: "./guncedogdu/images/GunceDogumGunu.jpg", title: "Dogum Gunu Kızı" },
+    { imgSrc: "./guncedogdu/images/GunceVeDigerleri.jpg", title: "Dogum Gunu Kızı" },
+    { imgSrc: "./guncedogdu/images/Bebeler.jpg", title: "Bebeler" },
     // Add more games similarly
   ];
   
   const videos = [
-    { videoSrc: "./images/FeritGunce.mp4", title: "Ferit Eğleniyor" },
-    { videoSrc: "./images/FeritOpuyor.mp4", title: "Ferit Öpüyor" },
-    { videoSrc: "./images/FeritKiziyor.mp4", title: "Ferit Kızıyor" },
+    { videoSrc: "./guncedogdu/images/FeritGunce.mp4", title: "Ferit Eğleniyor" },
+    { videoSrc: "./guncedogdu/images/FeritOpuyor.mp4", title: "Ferit Öpüyor" },
+    { videoSrc: "./guncedogdu/images/FeritKiziyor.mp4", title: "Ferit Kızıyor" },
     // Add more games similarly
   ];
 

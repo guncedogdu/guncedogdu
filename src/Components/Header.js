@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 const Header = () => (
   <header>
     <div className="header-top">
-      <img src="./images/Gunce.jpg" alt="Günce Oyun" className="logo" style={{width:"20vw", height:"10vh"}} />
+      <img src="./guncedogdu/images/Gunce.jpg" alt="Günce Oyun" className="logo" style={{width:"20vw", height:"10vh"}} />
       <h1>Günce Oyun 21 Yaşında!</h1>
     </div>
     <Nav />
