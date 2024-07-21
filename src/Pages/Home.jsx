@@ -9,8 +9,8 @@ const Home = () => (
   );
 
   const photos = [
-    { imgSrc: "./guncedogdu/images/KafalarGuzel.jpg", title: "Kafalar Guzel" },
-    { imgSrc: "./guncedogdu/images/GunceDogumGunu.jpg", title: "Dogum Gunu Kızı" },
+    // { imgSrc: "./images/KafalarGuzel.jpg", title: "Kafalar Guzel" },
+    { imgSrc: "./images/GunceDogumGunu.jpg", title: "Dogum Gunu Kızı" },
     { imgSrc: "./guncedogdu/images/GunceVeDigerleri.jpg", title: "Dogum Gunu Kızı" },
     { imgSrc: "./guncedogdu/images/Bebeler.jpg", title: "Bebeler" },
     // Add more games similarly
