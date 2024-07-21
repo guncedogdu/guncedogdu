@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guncedogdu/static/css/main.e1a60e6f.css",
+    "main.js": "/guncedogdu/static/js/main.fdd07c92.js",
+    "static/js/453.6383c75b.chunk.js": "/guncedogdu/static/js/453.6383c75b.chunk.js",
+    "index.html": "/guncedogdu/index.html",
+    "main.e1a60e6f.css.map": "/guncedogdu/static/css/main.e1a60e6f.css.map",
+    "main.fdd07c92.js.map": "/guncedogdu/static/js/main.fdd07c92.js.map",
+    "453.6383c75b.chunk.js.map": "/guncedogdu/static/js/453.6383c75b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1a60e6f.css",
+    "static/js/main.fdd07c92.js"
+  ]
+}
