@@ -27,7 +27,7 @@ function App() {
 const Main = () => (
   <main>
     <Routes>
-      <Route path="/guncedogdu" element={<Home/>} />
+      <Route path="/guncedogdu/" element={<Home/>} />
       <Route path="/guncedogdu/Messages" element={<Messages />} />
       <Route path="/guncedogdu/Musics" element={<Musics />} />
       <Route path="/guncedogdu/Games" element={<Games />} />

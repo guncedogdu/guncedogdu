@@ -14,7 +14,7 @@ const Header = () => (
 const Nav = () => (
   <nav>
     <ul>
-      <li><Link to="/guncedogdu">Anasayfa</Link></li>
+      <li><Link to="/guncedogdu/">Anasayfa</Link></li>
       <li><Link to="/guncedogdu/Messages">Mesajlar</Link></li>
       <li><Link to="/guncedogdu/Musics">Müzikler</Link></li>
       <li><Link to="/guncedogdu/Games">Oyunlar</Link></li>
