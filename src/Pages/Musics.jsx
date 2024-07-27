@@ -22,6 +22,13 @@ const Musics = () => {
     {music: "https://open.spotify.com/embed/track/2aCd0Ulx6YIIhRAbhQnK3B?utm_source=generator"},
     {music: "https://open.spotify.com/embed/track/4sFGNz4MYpGoz53ZGCwsiE?utm_source=generator"},
     {music: "https://open.spotify.com/embed/track/2FEWcWHnDmGD6WSqpW4VYu?utm_source=generator"},
+    {music: "https://open.spotify.com/embed/track/1QOSqQevYx6IrRTV9UG3D9?utm_source=generator"},
+    {music: "https://open.spotify.com/embed/track/4N013YtYizZVLRV5Qv61SE?utm_source=generator"},
+    {music: "https://open.spotify.com/embed/track/3UpLe8LLNCAMUTpXiQoFEp?utm_source=generator"},
+    {music: "https://open.spotify.com/embed/track/0ynFJpdwxNpv22s2r5XEdj?utm_source=generator"},
+    {music: "https://open.spotify.com/embed/track/3xKx1MrO5R8vProomRi6c0?utm_source=generator"},
+    {music: "https://open.spotify.com/embed/track/3r1Mavl6pZfmJr4I6Gwziv?utm_source=generator"},
+    {music: "https://open.spotify.com/embed/track/7LXZEyI1ke06UnmuwG4P8d?utm_source=generator"},
   ]
 
   return (
