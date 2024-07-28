@@ -10,16 +10,20 @@ const Home = () => (
 
   const photos = [
     { imgSrc: "./images/GunceDogumGunu.jpg", title: "Dogum Gunu Kızı" },
+    { imgSrc: "./images/You Are Indeed Amazing.png", title: "Wow" },
     { imgSrc: "./images/GunceVeDigerleri.jpg", title: "Dogum Gunu Kızı" },
     { imgSrc: "./images/Bebeler.jpg", title: "Bebeler" },
     { imgSrc: "./images/Void.jpg", title: "Void Selçuk" },
     { imgSrc: "./images/SEWGI.jpg", title: "SEWGI" },
+    { imgSrc: "./images/Otterr.png", title: "Kunduz" },
     { imgSrc: "./images/Meme.jpg", title: "Açım" },
     { imgSrc: "./images/Meme2.jpg", title: "Devir Bitmiş Bitmiş" },
     { imgSrc: "./images/Manzara.jpg", title: "Manzara" },
     { imgSrc: "./images/Koro.jpg", title: "Günce Koro" },
+    { imgSrc: "./images/Encouraging-Cat-Meme.png", title: "Harikasın" },
     { imgSrc: "./images/Kopke.jpg", title: "Sadge Kopke" },
     { imgSrc: "./images/Kedy3.jpg", title: "Bunalmış Catto" },
+    { imgSrc: "./images/images.png", title: "Pasta Ye" },
     { imgSrc: "./images/Kedy2.jpg", title: "Uykulu Catto" },
     { imgSrc: "./images/horoz.jpg", title: "HOROZLAR" },
     { imgSrc: "./images/Kedy.jpg", title: "Uykulu Catto" },
@@ -30,11 +34,13 @@ const Home = () => (
     { imgSrc: "./images/Bebek4.jpg", title: "İnsan Ördek Yavrusu" },
     { imgSrc: "./images/Bebek3.jpg", title: "Tosbağa" },
     { imgSrc: "./images/Bebek2.jpg", title: "UYYYYYYYYYYYYYY" },
+    { imgSrc: "./images/Fabulous.png", title: "Şans Laması" },
     { imgSrc: "./images/Bebek.jpg", title: "HERGESE MERHABA ARGADAŞLAR" },
     { imgSrc: "./images/Akça.jpg", title: "AKÇA" },
     { imgSrc: "./images/AESTHETIC HOROZ.jpg", title: "Horoz But Cooler" },
     { imgSrc: "./images/Gunce2013.jpg", title: "Günce Mülakat" },
     { imgSrc: "./images/BagBahce.jpg", title: "Bağ Bahçede Önemli İşler" },
+    { imgSrc: "./images/I Believe You Can Fly.png", title: "Uçabilirsin" },
     { imgSrc: "./images/MinnakKuslar.jpg", title: "Minnak 2 Kuş" },
     { imgSrc: "./images/Excited.jpg", title: "Heyecanlı" },
     { imgSrc: "./images/SenHayirdir.jpg", title: "Sen Hayırdır" },
@@ -43,6 +49,11 @@ const Home = () => (
     { imgSrc: "./images/Caylarr.png", title: "Caylarrr" },
     { imgSrc: "./images/Science.jpg", title: "Marmara Üniversitesi Bilim" },
     { imgSrc: "./images/Kule.jpg", title: "Mühendis Günce" },
+    { imgSrc: "./images/CattoBday.png", title: "Birtday Catto" },
+    { imgSrc: "./images/funiHilarious.png", title: "Funi" },
+    { imgSrc: "./images/funny-birthday-memes-jpg.png", title: "Alkolik Keddy" },
+
+
     // Add more games similarly
   ];
   
