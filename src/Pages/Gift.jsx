@@ -31,7 +31,7 @@ const Gift = () => {
                 <div className="games-list">
                     <Accordion expanded={isAccordionOpen} onChange={handleAccordionChange}>
                         <AccordionSummary aria-controls="panel1-content" id="panel1-header">
-                            <Typography>abc</Typography>
+                            <Typography>Doğum Günün Kutlu Olsun</Typography>
                         </AccordionSummary>
                         <AccordionDetails>
                             {isAccordionOpen && (
