@@ -9,6 +9,7 @@ import './App.css';
 import Musics from './Pages/Musics.jsx';
 import Games from "./Pages/Games.jsx";
 import Poems from './Pages/Poems.jsx';
+import Gift from './Pages/Gift.jsx';
 
 function App() {
   return (
@@ -33,9 +34,7 @@ const Main = () => (
       <Route path="/guncedogdu/Musics" element={<Musics />} />
       <Route path="/guncedogdu/Games" element={<Games />} />
       <Route path="/guncedogdu/Poems" element={<Poems />} />
-      <Route path="/guncedogdu/uye-listesi" element={<UyeListesi />} />
-      <Route path="/guncedogdu/sss" element={<SSS />} />
-      <Route path="/guncedogdu/iki-kisilik-oyunlar" element={<IkiKisilikOyunlar />} />
+      <Route path="/guncedogdu/Gift" element={<Gift />} />
     </Routes>
   </main>
 );

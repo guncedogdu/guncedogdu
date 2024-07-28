@@ -21,7 +21,6 @@ const Home = () => (
     { imgSrc: "./images/Kopke.jpg", title: "Sadge Kopke" },
     { imgSrc: "./images/Kedy3.jpg", title: "Bunalmış Catto" },
     { imgSrc: "./images/Kedy2.jpg", title: "Uykulu Catto" },
-    { imgSrc: "./images/Meme3.jpg", title: "" },
     { imgSrc: "./images/horoz.jpg", title: "HOROZLAR" },
     { imgSrc: "./images/Kedy.jpg", title: "Uykulu Catto" },
     { imgSrc: "./images/HamileSincap.jpg", title: "HAMİLE SİNCAP !!!!!!!!!!!!!!" },
