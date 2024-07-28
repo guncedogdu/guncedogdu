@@ -33,7 +33,7 @@ const Musics = () => {
 
   return (
     <div className="musics">
-      <h1>Doğum Günü Mesajları</h1>
+      <h1>Müzikler</h1>
       <div className="musics-list">
         {items.map((item, index) => (
           <div key={index} className="message">

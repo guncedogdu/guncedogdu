@@ -9,7 +9,7 @@ const Messages = () => {
   return (
     <div className="poems-page">
     <div className="messages">
-      <h1>Şiirler</h1>
+      <h1>Doğum Günü Mesajları</h1>
       <div className="messages-list">
         {items.map((item, index) => (
           <div key={index} className="message">
