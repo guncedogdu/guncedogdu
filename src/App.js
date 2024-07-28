@@ -34,7 +34,7 @@ const Main = () => (
       <Route path="/guncedogdu/Musics" element={<Musics />} />
       <Route path="/guncedogdu/Games" element={<Games />} />
       <Route path="/guncedogdu/Poems" element={<Poems />} />
-      <Route path="/guncedogdu/Gift" element={<Gift />} />
+      <Route path="/guncedogdu/Gifts" element={<Gift />} />
     </Routes>
   </main>
 );
