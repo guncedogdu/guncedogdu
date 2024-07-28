@@ -45,8 +45,6 @@ const Home = () => (
     { imgSrc: "./images/Science.jpg", title: "Bebeler" },
     { imgSrc: "./images/Kule.jpg", title: "Bebeler" },
     { imgSrc: "./images/AESTHETIC HOROZ.jpg", title: "Bebeler" },
-    { imgSrc: "./images/AESTHETIC HOROZ.jpg", title: "Bebeler" },
-    { imgSrc: "./images/AESTHETIC HOROZ.jpg", title: "Bebeler" },
     // Add more games similarly
   ];
   

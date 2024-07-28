@@ -18,10 +18,7 @@ const Nav = () => (
       <li><Link to="/guncedogdu/Messages">Mesajlar</Link></li>
       <li><Link to="/guncedogdu/Musics">Müzikler</Link></li>
       <li><Link to="/guncedogdu/Games">Oyunlar</Link></li>
-      <li><Link to="/guncedogdu/favorilerim">Favorilerim</Link></li>
-      <li><Link to="/guncedogdu/uye-listesi">Üye Listesi</Link></li>
-      <li><Link to="/guncedogdu/sss">SSS</Link></li>
-      <li><Link to="/guncedogdu/iki-kisilik-oyunlar">2 Kişilik Oyunlar</Link></li>
+      <li><Link to="/guncedogdu/Poems">Şiirler</Link></li>
     </ul>
     <div className="search-bar">
       <input type="text" placeholder="Arama yap..." />
