@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/guncedogdu/static/css/main.6b9de044.css",
-    "main.js": "/guncedogdu/static/js/main.2b0c24ed.js",
+    "main.js": "/guncedogdu/static/js/main.fa0292c9.js",
     "static/js/453.bff83f84.chunk.js": "/guncedogdu/static/js/453.bff83f84.chunk.js",
     "index.html": "/guncedogdu/index.html",
     "main.6b9de044.css.map": "/guncedogdu/static/css/main.6b9de044.css.map",
-    "main.2b0c24ed.js.map": "/guncedogdu/static/js/main.2b0c24ed.js.map",
+    "main.fa0292c9.js.map": "/guncedogdu/static/js/main.fa0292c9.js.map",
     "453.bff83f84.chunk.js.map": "/guncedogdu/static/js/453.bff83f84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b9de044.css",
-    "static/js/main.2b0c24ed.js"
+    "static/js/main.fa0292c9.js"
   ]
 }
